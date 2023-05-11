@@ -12,6 +12,8 @@ Replace "15th grader" with what grade your in, change "250 words" to how many wo
 
 ## Proof
 
-![Me Usiing The Prompt On ChatGPT](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Me Usiing The Prompt On ChatGPT](https://github.com/M1noa/ai-detection-bypass/blob/main/images/prompt.png?raw=true)
+![It Working](https://github.com/M1noa/ai-detection-bypass/blob/main/images/proof.png?raw=true)
+
 
 
