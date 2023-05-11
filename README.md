@@ -11,7 +11,7 @@ Replace "15th grader" with what grade your grade, and change "250 words" to how 
 ## Reccomminded
 Put this prompt in after that to further stop cheatinging detection that sites like copyleaks.com do.
 ```
-Change 20% words to other words with the same meaning.
+Change at least 20 words to other words with the same meaning.
 ```
 
 
