@@ -12,8 +12,8 @@ Replace "15th grader" with what grade your in + 3, change "250 words" to how man
 
 ## Proof
 
-![Me Usiing The Prompt On ChatGPT](https://github.com/M1noa/ai-detection-bypass/blob/main/images/prompt.png?raw=true)
-![It Working](https://github.com/M1noa/ai-detection-bypass/blob/main/images/proof.png?raw=true)
+![Proof 1](https://github.com/M1noa/ai-detection-bypass/blob/main/images/proof.png?raw=true)
+![Proof 2](https://github.com/M1noa/ai-detection-bypass/blob/main/images/proof2.png?raw=true)
 
 
 
