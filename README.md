@@ -19,6 +19,4 @@ Change at least 20 words to other words with the same meaning.
 
 ![Proof 1](https://github.com/M1noa/ai-detection-bypass/blob/main/images/proof.png?raw=true)
 ![Proof 2](https://github.com/M1noa/ai-detection-bypass/blob/main/images/proof2.png?raw=true)
-
-
-
+![Proof 3](https://github.com/M1noa/ai-detection-bypass/blob/main/images/proof3.png?raw=true)
