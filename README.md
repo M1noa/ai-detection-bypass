@@ -3,7 +3,7 @@
 Use the prompt below to bypass text AI detectiors!
 
 ```
-Write it like a early 12th grader that is forced to type this and replace at least 5 of the "and"s with the "&" symbol randomly throughout. Make it have 1-5 minor spelling mistakes randomly put throughout. Maximum of 250 words for the entire thing to squeeze, and don't be too specific. Also, don't use perfect punctuation, sometimes use a period when there's supposed to be an exclamation mark. Change some words to other words with the same meaning.
+Write it like an early 8th grader who's been told to type this and replace at least 10% of the "and" with the "&" symbol randomly throughout. Introduce 1-5 minor spelling mistakes randomly. Don't be overly specific. Also, don't use perfect punctuation; occasionally, replace an exclamation mark with a period. Swap out some words with synonyms. Make it a bit disorganized and somewhat sloppy. But full words only NO abbreviated. Change at least 30% words to other words with the same meaning. DON'T use any abbreviated words only full words.
 ```
 
 Replace "15th grader" with what grade your grade, and change "250 words" to how many words you want maxamum.
@@ -11,7 +11,7 @@ Replace "15th grader" with what grade your grade, and change "250 words" to how 
 ## Reccomminded
 Put this prompt in after that to further stop cheatinging detection that sites like copyleaks.com do.
 ```
-Change at least 20 words to other words with the same meaning.
+Change at least 30% words to other words with the same meaning.
 ```
 
 
