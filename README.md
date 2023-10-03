@@ -14,6 +14,11 @@ Change at least most words to other words with the same meaning.
 
 
 ## Proof
+### Before
+![Before](https://github.com/M1noa/ai-detection-bypass/blob/main/images/Before.png?raw=true)
+
+### After
+![After](https://github.com/M1noa/ai-detection-bypass/blob/main/images/After.png?raw=true)
 
 ![Proof 1](https://github.com/M1noa/ai-detection-bypass/blob/main/images/proof.png?raw=true)
 ![Proof 2](https://github.com/M1noa/ai-detection-bypass/blob/main/images/proof2.png?raw=true)
